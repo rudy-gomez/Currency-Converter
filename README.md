@@ -41,7 +41,7 @@ Ingresa el monto a convertir: 100
 Clona este repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/currency-converter.git
+https://github.com/rudygomez404/Currency-Converter.git
 ```
 ### Ejecución
 
