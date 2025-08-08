@@ -66,6 +66,3 @@ https://github.com/rudy-gomez/Currency-Converter.git
 
 Este proyecto puede emplearse sin restricciones con objetivos educativos.
 
----
-
-❤️ Creado como proyecto educativo ONE para aprender sobre APIs REST, manejo de JSON y buenas prácticas en Java.
